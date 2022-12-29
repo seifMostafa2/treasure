@@ -1,0 +1,2252 @@
+[
+  {
+    "country_code": "AF",
+    "name": "Afghanistan",
+    "calling_code": "+93",
+    "iso3Code": "AFG",
+    "currency_name": "Afghan afghani",
+    "currency_code": "AFN",
+    "flag": "lib/Widgets/country_all_picker/flags/afg.png"
+  },
+  {
+    "country_code": "AX",
+    "name": "Åland Islands",
+    "calling_code": "+358",
+    "iso3Code": "ALA",
+    "currency_name": "Euro",
+    "currency_code": "EUR",
+    "flag": "lib/Widgets/country_all_picker/flags/ala.png"
+  },
+  {
+    "country_code": "AL",
+    "name": "Albania",
+    "calling_code": "+355",
+    "iso3Code": "ALB",
+    "currency_name": "Albanian lek",
+    "currency_code": "ALL",
+    "flag": "lib/Widgets/country_all_picker/flags/alb.png"
+  },
+  {
+    "country_code": "DZ",
+    "name": "Algeria",
+    "calling_code": "+213",
+    "iso3Code": "DZA",
+    "currency_name": "Algerian dinar",
+    "currency_code": "DZD",
+    "flag": "lib/Widgets/country_all_picker/flags/dza.png"
+  },
+  {
+    "country_code": "AS",
+    "name": "American Samoa",
+    "calling_code": "+1684",
+    "iso3Code": "ASM",
+    "currency_name": "United State Dollar",
+    "currency_code": "USD",
+    "flag": "lib/Widgets/country_all_picker/flags/asm.png"
+  },
+  {
+    "country_code": "AD",
+    "name": "Andorra",
+    "calling_code": "+376",
+    "iso3Code": "AND",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/and.png"
+  },
+  {
+    "country_code": "AO",
+    "name": "Angola",
+    "calling_code": "+244",
+    "iso3Code": "AGO",
+    "currency_code": "AOA",
+    "currency_name": "Angolan kwanza",
+    "flag": "lib/Widgets/country_all_picker/flags/ago.png"
+  },
+  {
+    "country_code": "AI",
+    "name": "Anguilla",
+    "calling_code": "+1264",
+    "iso3Code": "AIA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/aia.png"
+  },
+  {
+    "country_code": "AQ",
+    "name": "Antarctica",
+    "calling_code": "+672",
+    "iso3Code": "ATA",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/ata.png"
+  },
+  {
+    "country_code": "AG",
+    "name": "Antigua and Barbuda",
+    "calling_code": "+1268",
+    "iso3Code": "ATG",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/atg.png"
+  },
+  {
+    "country_code": "AR",
+    "name": "Argentina",
+    "calling_code": "+54",
+    "iso3Code": "ARG",
+    "currency_code": "ARS",
+    "currency_name": "Argentine peso",
+    "flag": "lib/Widgets/country_all_picker/flags/arg.png"
+  },
+  {
+    "country_code": "AM",
+    "name": "Armenia",
+    "calling_code": "+374",
+    "iso3Code": "ARM",
+    "currency_code": "AMD",
+    "currency_name": "Armenian dram",
+    "flag": "lib/Widgets/country_all_picker/flags/arm.png"
+  },
+  {
+    "country_code": "AW",
+    "name": "Aruba",
+    "calling_code": "+297",
+    "iso3Code": "ABW",
+    "currency_code": "AWG",
+    "currency_name": "Aruban florin",
+    "flag": "lib/Widgets/country_all_picker/flags/abw.png"
+  },
+  {
+    "country_code": "AU",
+    "name": "Australia",
+    "calling_code": "+61",
+    "iso3Code": "AUS",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/aus.png"
+  },
+  {
+    "country_code": "AT",
+    "name": "Austria",
+    "calling_code": "+43",
+    "iso3Code": "AUT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/aut.png"
+  },
+  {
+    "country_code": "AZ",
+    "name": "Azerbaijan",
+    "calling_code": "+994",
+    "iso3Code": "AZE",
+    "currency_code": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "flag": "lib/Widgets/country_all_picker/flags/aze.png"
+  },
+  {
+    "country_code": "BS",
+    "name": "Bahamas",
+    "calling_code": "+1242",
+    "iso3Code": "BHS",
+    "currency_code": "BSD",
+    "currency_name": "Bahamian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/bhs.png"
+  },
+  {
+    "country_code": "BH",
+    "name": "Bahrain",
+    "calling_code": "+973",
+    "iso3Code": "BHR",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini dinar",
+    "flag": "lib/Widgets/country_all_picker/flags/bhr.png"
+  },
+  {
+    "country_code": "BD",
+    "name": "Bangladesh",
+    "calling_code": "+880",
+    "iso3Code": "BGD",
+    "currency_code": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "flag": "lib/Widgets/country_all_picker/flags/bgd.png"
+  },
+  {
+    "country_code": "BB",
+    "name": "Barbados",
+    "calling_code": "+1246",
+    "iso3Code": "BRB",
+    "currency_code": "BBD",
+    "currency_name": "Barbadian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/brb.png"
+  },
+  {
+    "country_code": "BY",
+    "name": "Belarus",
+    "calling_code": "+375",
+    "iso3Code": "BLR",
+    "currency_code": "BYN",
+    "currency_name": "New Belarusian ruble",
+    "flag": "lib/Widgets/country_all_picker/flags/blr.png"
+  },
+  {
+    "country_code": "BE",
+    "name": "Belgium",
+    "calling_code": "+32",
+    "iso3Code": "BEL",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/bel.png"
+  },
+  {
+    "country_code": "BZ",
+    "name": "Belize",
+    "calling_code": "+501",
+    "iso3Code": "BLZ",
+    "currency_code": "BZD",
+    "currency_name": "Belize dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/blz.png"
+  },
+  {
+    "country_code": "BJ",
+    "name": "Benin",
+    "calling_code": "+229",
+    "iso3Code": "BEN",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/ben.png"
+  },
+  {
+    "country_code": "BM",
+    "name": "Bermuda",
+    "calling_code": "+1441",
+    "iso3Code": "BMU",
+    "currency_code": "BMD",
+    "currency_name": "Bermudian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/bmu.png"
+  },
+  {
+    "country_code": "BT",
+    "name": "Bhutan",
+    "calling_code": "+975",
+    "iso3Code": "BTN",
+    "currency_code": "BTN",
+    "currency_name": "Bhutanese ngultrum",
+    "flag": "lib/Widgets/country_all_picker/flags/btn.png"
+  },
+  {
+    "country_code": "BO",
+    "name": "Bolivia (Plurinational State of)",
+    "calling_code": "+591",
+    "iso3Code": "BOL",
+    "currency_code": "BOB",
+    "currency_name": "Bolivian boliviano",
+    "flag": "lib/Widgets/country_all_picker/flags/bol.png"
+  },
+  {
+    "country_code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "calling_code": "+5997",
+    "iso3Code": "BES",
+    "currency_code": "USD",
+    "currency_name": "United State Dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/bes.png"
+  },
+  {
+    "country_code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "calling_code": "+387",
+    "iso3Code": "BIH",
+    "currency_code": "BAM",
+    "currency_name": "Bosnia",
+    "flag": "lib/Widgets/country_all_picker/flags/bih.png"
+  },
+  {
+    "country_code": "BW",
+    "name": "Botswana",
+    "calling_code": "+267",
+    "iso3Code": "BWA",
+    "currency_code": "BWP",
+    "currency_name": "Botswana pula",
+    "flag": "lib/Widgets/country_all_picker/flags/bwa.png"
+  },
+  {
+    "country_code": "BV",
+    "name": "Bouvet Island",
+    "calling_code": "+55",
+    "iso3Code": "BVT",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian krone",
+    "flag": "lib/Widgets/country_all_picker/flags/bvt.png"
+  },
+  {
+    "country_code": "BR",
+    "name": "Brazil",
+    "calling_code": "+55",
+    "iso3Code": "BRA",
+    "currency_code": "BRL",
+    "currency_name": "Brazilian real",
+    "flag": "lib/Widgets/country_all_picker/flags/bra.png"
+  },
+  {
+    "country_code": "IO",
+    "name": "British Indian Ocean Territory",
+    "calling_code": "+246",
+    "iso3Code": "IOT",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/iot.png"
+  },
+  {
+    "country_code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "calling_code": "+246",
+    "iso3Code": "UMI",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/umi.png"
+  },
+  {
+    "country_code": "VG",
+    "name": "Virgin Islands (British)",
+    "calling_code": "+1284",
+    "iso3Code": "VGB",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/vgb.png"
+  },
+  {
+    "country_code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "calling_code": "+1 340",
+    "iso3Code": "VIR",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/vir.png"
+  },
+  {
+    "country_code": "BN",
+    "name": "Brunei Darussalam",
+    "calling_code": "+673",
+    "iso3Code": "BRN",
+    "currency_code": "BND",
+    "currency_name": "Brunei dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/brn.png"
+  },
+  {
+    "country_code": "BG",
+    "name": "Bulgaria",
+    "calling_code": "+359",
+    "iso3Code": "BGR",
+    "currency_code": "BGN",
+    "currency_name": "Bulgarian lev",
+    "flag": "lib/Widgets/country_all_picker/flags/bgr.png"
+  },
+  {
+    "country_code": "BF",
+    "name": "Burkina Faso",
+    "calling_code": "+226",
+    "iso3Code": "BFA",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/bfa.png"
+  },
+  {
+    "country_code": "BI",
+    "name": "Burundi",
+    "calling_code": "+257",
+    "iso3Code": "BDI",
+    "currency_code": "BIF",
+    "currency_name": "Burundian franc",
+    "flag": "lib/Widgets/country_all_picker/flags/bdi.png"
+  },
+  {
+    "country_code": "KH",
+    "name": "Cambodia",
+    "calling_code": "+855",
+    "iso3Code": "KHM",
+    "currency_code": "KHR",
+    "currency_name": "Cambodian riel",
+    "flag": "lib/Widgets/country_all_picker/flags/khm.png"
+  },
+  {
+    "country_code": "CM",
+    "name": "Cameroon",
+    "calling_code": "+237",
+    "iso3Code": "CMR",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/cmr.png"
+  },
+  {
+    "country_code": "CA",
+    "name": "Canada",
+    "calling_code": "+1",
+    "iso3Code": "CAN",
+    "currency_code": "CAD",
+    "currency_name": "Canadian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/can.png"
+  },
+  {
+    "country_code": "CV",
+    "name": "Cabo Verde",
+    "calling_code": "+238",
+    "iso3Code": "CPV",
+    "currency_code": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "flag": "lib/Widgets/country_all_picker/flags/cpv.png"
+  },
+  {
+    "country_code": "KY",
+    "name": "Cayman Islands",
+    "calling_code": "+1345",
+    "iso3Code": "CYM",
+    "currency_code": "KYD",
+    "currency_name": "Cayman Islands dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/cym.png"
+  },
+  {
+    "country_code": "CF",
+    "name": "Central African Republic",
+    "calling_code": "+236",
+    "iso3Code": "CAF",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/caf.png"
+  },
+  {
+    "country_code": "TD",
+    "name": "Chad",
+    "calling_code": "+235",
+    "iso3Code": "TCD",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/tcd.png"
+  },
+  {
+    "country_code": "CL",
+    "name": "Chile",
+    "calling_code": "+56",
+    "iso3Code": "CHL",
+    "currency_code": "CLP",
+    "currency_name": "Chilean peso",
+    "flag": "lib/Widgets/country_all_picker/flags/chl.png"
+  },
+  {
+    "country_code": "CN",
+    "name": "China",
+    "calling_code": "+86",
+    "iso3Code": "CHN",
+    "currency_code": "CNY",
+    "currency_name": "Chinese yuan",
+    "flag": "lib/Widgets/country_all_picker/flags/chn.png"
+  },
+  {
+    "country_code": "CX",
+    "name": "Christmas Island",
+    "calling_code": "+61",
+    "iso3Code": "CXR",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/cxr.png"
+  },
+  {
+    "country_code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "calling_code": "+61",
+    "iso3Code": "CCK",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/cck.png"
+  },
+  {
+    "country_code": "CO",
+    "name": "Colombia",
+    "calling_code": "+57",
+    "iso3Code": "COL",
+    "currency_code": "COP",
+    "currency_name": "Colombian peso",
+    "flag": "lib/Widgets/country_all_picker/flags/col.png"
+  },
+  {
+    "country_code": "KM",
+    "name": "Comoros",
+    "calling_code": "+269",
+    "iso3Code": "COM",
+    "currency_code": "KMF",
+    "currency_name": "Comorian franc",
+    "flag": "lib/Widgets/country_all_picker/flags/com.png"
+  },
+  {
+    "country_code": "CG",
+    "name": "Congo",
+    "calling_code": "+242",
+    "iso3Code": "COG",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/cog.png"
+  },
+  {
+    "country_code": "CD",
+    "name": "Congo (Democratic Republic of the)",
+    "calling_code": "+243",
+    "iso3Code": "COD",
+    "currency_code": "CDF",
+    "currency_name": "Congolese franc",
+    "flag": "lib/Widgets/country_all_picker/flags/cod.png"
+  },
+  {
+    "country_code": "CK",
+    "name": "Cook Islands",
+    "calling_code": "+682",
+    "iso3Code": "COK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/cok.png"
+  },
+  {
+    "country_code": "CR",
+    "name": "Costa Rica",
+    "calling_code": "+506",
+    "iso3Code": "CRI",
+    "currency_code": "CRC",
+    "currency_name": "Costa Rican colón",
+    "flag": "lib/Widgets/country_all_picker/flags/cri.png"
+  },
+  {
+    "country_code": "HR",
+    "name": "Croatia",
+    "calling_code": "+385",
+    "iso3Code": "HRV",
+    "currency_code": "HRK",
+    "currency_name": "Croatian kuna",
+    "flag": "lib/Widgets/country_all_picker/flags/hrv.png"
+  },
+  {
+    "country_code": "CU",
+    "name": "Cuba",
+    "calling_code": "+53",
+    "iso3Code": "CUB",
+    "currency_code": "CUC",
+    "currency_name": "Cuban convertible peso",
+    "flag": "lib/Widgets/country_all_picker/flags/cub.png"
+  },
+  {
+    "country_code": "CW",
+    "name": "Curaçao",
+    "calling_code": "+599",
+    "iso3Code": "CUW",
+    "currency_code": "ANG",
+    "currency_name": "Netherlands Antillean guilder",
+    "flag": "lib/Widgets/country_all_picker/flags/cuw.png"
+  },
+  {
+    "country_code": "CY",
+    "name": "Cyprus",
+    "calling_code": "+357",
+    "iso3Code": "CYP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/cyp.png"
+  },
+  {
+    "country_code": "CZ",
+    "name": "Czech Republic",
+    "calling_code": "+420",
+    "iso3Code": "CZE",
+    "currency_code": "CZK",
+    "currency_name": "Czech koruna",
+    "flag": "lib/Widgets/country_all_picker/flags/cze.png"
+  },
+  {
+    "country_code": "DK",
+    "name": "Denmark",
+    "calling_code": "+45",
+    "iso3Code": "DNK",
+    "currency_code": "DKK",
+    "currency_name": "Danish krone",
+    "flag": "lib/Widgets/country_all_picker/flags/dnk.png"
+  },
+  {
+    "country_code": "DJ",
+    "name": "Djibouti",
+    "calling_code": "+253",
+    "iso3Code": "DJI",
+    "currency_code": "DJF",
+    "currency_name": "Djiboutian franc",
+    "flag": "lib/Widgets/country_all_picker/flags/dji.png"
+  },
+  {
+    "country_code": "DM",
+    "name": "Dominica",
+    "calling_code": "+1767",
+    "iso3Code": "DMA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/dma.png"
+  },
+  {
+    "country_code": "DO",
+    "name": "Dominican Republic",
+    "calling_code": "+1809",
+    "iso3Code": "DOM",
+    "currency_code": "DOP",
+    "currency_name": "Dominican peso",
+    "flag": "lib/Widgets/country_all_picker/flags/dom.png"
+  },
+  {
+    "country_code": "EC",
+    "name": "Ecuador",
+    "calling_code": "+593",
+    "iso3Code": "ECU",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/ecu.png"
+  },
+  {
+    "country_code": "EG",
+    "name": "Egypt",
+    "calling_code": "+20",
+    "iso3Code": "EGY",
+    "currency_code": "EGP",
+    "currency_name": "Egyptian pound",
+    "flag": "lib/Widgets/country_all_picker/flags/egy.png"
+  },
+  {
+    "country_code": "SV",
+    "name": "El Salvador",
+    "calling_code": "+503",
+    "iso3Code": "SLV",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/slv.png"
+  },
+  {
+    "country_code": "GQ",
+    "name": "Equatorial Guinea",
+    "calling_code": "+240",
+    "iso3Code": "GNQ",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/gnq.png"
+  },
+  {
+    "country_code": "ER",
+    "name": "Eritrea",
+    "calling_code": "+291",
+    "iso3Code": "ERI",
+    "currency_code": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "flag": "lib/Widgets/country_all_picker/flags/eri.png"
+  },
+  {
+    "country_code": "EE",
+    "name": "Estonia",
+    "calling_code": "+372",
+    "iso3Code": "EST",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/est.png"
+  },
+  {
+    "country_code": "ET",
+    "name": "Ethiopia",
+    "calling_code": "+251",
+    "iso3Code": "ETH",
+    "currency_code": "ETB",
+    "currency_name": "Ethiopian birr",
+    "flag": "lib/Widgets/country_all_picker/flags/eth.png"
+  },
+  {
+    "country_code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "calling_code": "+500",
+    "iso3Code": "FLK",
+    "currency_code": "FKP",
+    "currency_name": "Falkland Islands pound",
+    "flag": "lib/Widgets/country_all_picker/flags/flk.png"
+  },
+  {
+    "country_code": "FO",
+    "name": "Faroe Islands",
+    "calling_code": "+298",
+    "iso3Code": "FRO",
+    "currency_code": "DKK",
+    "currency_name": "Danish krone",
+    "flag": "lib/Widgets/country_all_picker/flags/fro.png"
+  },
+  {
+    "country_code": "FJ",
+    "name": "Fiji",
+    "calling_code": "+679",
+    "iso3Code": "FJI",
+    "currency_code": "FJD",
+    "currency_name": "Fijian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/fji.png"
+  },
+  {
+    "country_code": "FI",
+    "name": "Finland",
+    "calling_code": "+358",
+    "iso3Code": "FIN",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/fin.png"
+  },
+  {
+    "country_code": "FR",
+    "name": "France",
+    "calling_code": "+33",
+    "iso3Code": "FRA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/fra.png"
+  },
+  {
+    "country_code": "GF",
+    "name": "French Guiana",
+    "calling_code": "+594",
+    "iso3Code": "GUF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/guf.png"
+  },
+  {
+    "country_code": "PF",
+    "name": "French Polynesia",
+    "calling_code": "+689",
+    "iso3Code": "PYF",
+    "currency_code": "XPF",
+    "currency_name": "CFP franc",
+    "flag": "lib/Widgets/country_all_picker/flags/pyf.png"
+  },
+  {
+    "country_code": "TF",
+    "name": "French Southern Territories",
+    "calling_code": "+262",
+    "iso3Code": "ATF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/atf.png"
+  },
+  {
+    "country_code": "GA",
+    "name": "Gabon",
+    "calling_code": "+241",
+    "iso3Code": "GAB",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/gab.png"
+  },
+  {
+    "country_code": "GM",
+    "name": "Gambia",
+    "calling_code": "+220",
+    "iso3Code": "GMB",
+    "currency_code": "GMD",
+    "currency_name": "Gambian dalasi",
+    "flag": "lib/Widgets/country_all_picker/flags/gmb.png"
+  },
+  {
+    "country_code": "GE",
+    "name": "Georgia",
+    "calling_code": "+995",
+    "iso3Code": "GEO",
+    "currency_code": "GEL",
+    "currency_name": "Georgian Lari",
+    "flag": "lib/Widgets/country_all_picker/flags/geo.png"
+  },
+  {
+    "country_code": "DE",
+    "name": "Germany",
+    "calling_code": "+49",
+    "iso3Code": "DEU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/deu.png"
+  },
+  {
+    "country_code": "GH",
+    "name": "Ghana",
+    "calling_code": "+233",
+    "iso3Code": "GHA",
+    "currency_code": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "flag": "lib/Widgets/country_all_picker/flags/gha.png"
+  },
+  {
+    "country_code": "GI",
+    "name": "Gibraltar",
+    "calling_code": "+350",
+    "iso3Code": "GIB",
+    "currency_code": "GIP",
+    "currency_name": "Gibraltar pound",
+    "flag": "lib/Widgets/country_all_picker/flags/gib.png"
+  },
+  {
+    "country_code": "GR",
+    "name": "Greece",
+    "calling_code": "+30",
+    "iso3Code": "GRC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/grc.png"
+  },
+  {
+    "country_code": "GL",
+    "name": "Greenland",
+    "calling_code": "+299",
+    "iso3Code": "GRL",
+    "currency_code": "DKK",
+    "currency_name": "Danish krone",
+    "flag": "lib/Widgets/country_all_picker/flags/grl.png"
+  },
+  {
+    "country_code": "GD",
+    "name": "Grenada",
+    "calling_code": "+1473",
+    "iso3Code": "GRD",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/grd.png"
+  },
+  {
+    "country_code": "GP",
+    "name": "Guadeloupe",
+    "calling_code": "+590",
+    "iso3Code": "GLP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/glp.png"
+  },
+  {
+    "country_code": "GU",
+    "name": "Guam",
+    "calling_code": "+1671",
+    "iso3Code": "GUM",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/gum.png"
+  },
+  {
+    "country_code": "GT",
+    "name": "Guatemala",
+    "calling_code": "+502",
+    "iso3Code": "GTM",
+    "currency_code": "GTQ",
+    "currency_name": "Guatemalan quetzal",
+    "flag": "lib/Widgets/country_all_picker/flags/gtm.png"
+  },
+  {
+    "country_code": "GG",
+    "name": "Guernsey",
+    "calling_code": "+44",
+    "iso3Code": "GGY",
+    "currency_code": "GBP",
+    "currency_name": "British pound",
+    "flag": "lib/Widgets/country_all_picker/flags/ggy.png"
+  },
+  {
+    "country_code": "GN",
+    "name": "Guinea",
+    "calling_code": "+224",
+    "iso3Code": "GIN",
+    "currency_code": "GNF",
+    "currency_name": "Guinean franc",
+    "flag": "lib/Widgets/country_all_picker/flags/gin.png"
+  },
+  {
+    "country_code": "GW",
+    "name": "Guinea-Bissau",
+    "calling_code": "+245",
+    "iso3Code": "GNB",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/gnb.png"
+  },
+  {
+    "country_code": "GY",
+    "name": "Guyana",
+    "calling_code": "+592",
+    "iso3Code": "GUY",
+    "currency_code": "GYD",
+    "currency_name": "Guyanese dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/guy.png"
+  },
+  {
+    "country_code": "HT",
+    "name": "Haiti",
+    "calling_code": "+509",
+    "iso3Code": "HTI",
+    "currency_code": "HTG",
+    "currency_name": "Haitian gourde",
+    "flag": "lib/Widgets/country_all_picker/flags/hti.png"
+  },
+  {
+    "country_code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "calling_code": "+672",
+    "iso3Code": "HMD",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/hmd.png"
+  },
+  {
+    "country_code": "VA",
+    "name": "Holy See (Vatican City State)",
+    "calling_code": "+379",
+    "iso3Code": "VAT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/vat.png"
+  },
+  {
+    "country_code": "HN",
+    "name": "Honduras",
+    "calling_code": "+504",
+    "iso3Code": "HND",
+    "currency_code": "HNL",
+    "currency_name": "Honduran lempira",
+    "flag": "lib/Widgets/country_all_picker/flags/hnd.png"
+  },
+  {
+    "country_code": "HK",
+    "name": "Hong Kong",
+    "calling_code": "+852",
+    "iso3Code": "HKG",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/hkg.png"
+  },
+  {
+    "country_code": "HU",
+    "name": "Hungary",
+    "calling_code": "+36",
+    "iso3Code": "HUN",
+    "currency_code": "HUF",
+    "currency_name": "Hungarian forint",
+    "flag": "lib/Widgets/country_all_picker/flags/hun.png"
+  },
+  {
+    "country_code": "IS",
+    "name": "Iceland",
+    "calling_code": "+354",
+    "iso3Code": "ISL",
+    "currency_code": "ISK",
+    "currency_name": "Icelandic króna",
+    "flag": "lib/Widgets/country_all_picker/flags/isl.png"
+  },
+  {
+    "country_code": "IN",
+    "name": "India",
+    "calling_code": "+91",
+    "iso3Code": "IND",
+    "currency_code": "INR",
+    "currency_name": "Indian rupee",
+    "flag": "lib/Widgets/country_all_picker/flags/ind.png"
+  },
+  {
+    "country_code": "ID",
+    "name": "Indonesia",
+    "calling_code": "+62",
+    "iso3Code": "IDN",
+    "currency_code": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "flag": "lib/Widgets/country_all_picker/flags/idn.png"
+  },
+  {
+    "country_code": "CI",
+    "name": "Côte d'Ivoire",
+    "calling_code": "+225",
+    "iso3Code": "CIV",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/civ.png"
+  },
+  {
+    "country_code": "IR",
+    "name": "Iran (Islamic Republic of)",
+    "calling_code": "+98",
+    "iso3Code": "IRN",
+    "currency_code": "IRR",
+    "currency_name": "Iranian rial",
+    "flag": "lib/Widgets/country_all_picker/flags/irn.png"
+  },
+  {
+    "country_code": "IQ",
+    "name": "Iraq",
+    "calling_code": "+964",
+    "iso3Code": "IRQ",
+    "currency_code": "IQD",
+    "currency_name": "Iraqi dinar",
+    "flag": "lib/Widgets/country_all_picker/flags/irq.png"
+  },
+  {
+    "country_code": "IE",
+    "name": "Ireland",
+    "calling_code": "+353",
+    "iso3Code": "IRL",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/irl.png"
+  },
+  {
+    "country_code": "IM",
+    "name": "Isle of Man",
+    "calling_code": "+44",
+    "iso3Code": "IMN",
+    "currency_code": "GBP",
+    "currency_name": "British pound",
+    "flag": "lib/Widgets/country_all_picker/flags/imn.png"
+  },
+  {
+    "country_code": "IL",
+    "name": "Israel",
+    "calling_code": "+972",
+    "iso3Code": "ISR",
+    "currency_code": "ILS",
+    "currency_name": "Israeli new shekel",
+    "flag": "lib/Widgets/country_all_picker/flags/isr.png"
+  },
+  {
+    "country_code": "IT",
+    "name": "Italy",
+    "calling_code": "+39",
+    "iso3Code": "ITA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/ita.png"
+  },
+  {
+    "country_code": "JM",
+    "name": "Jamaica",
+    "calling_code": "+1876",
+    "iso3Code": "JAM",
+    "currency_code": "JMD",
+    "currency_name": "Jamaican dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/jam.png"
+  },
+  {
+    "country_code": "JP",
+    "name": "Japan",
+    "calling_code": "+81",
+    "iso3Code": "JPN",
+    "currency_code": "JPY",
+    "currency_name": "Japanese yen",
+    "flag": "lib/Widgets/country_all_picker/flags/jpn.png"
+  },
+  {
+    "country_code": "JE",
+    "name": "Jersey",
+    "calling_code": "+44",
+    "iso3Code": "JEY",
+    "currency_code": "GBP",
+    "currency_name": "British pound",
+    "flag": "lib/Widgets/country_all_picker/flags/jey.png"
+  },
+  {
+    "country_code": "JO",
+    "name": "Jordan",
+    "calling_code": "+962",
+    "iso3Code": "JOR",
+    "currency_code": "JOD",
+    "currency_name": "Jordanian dinar",
+    "flag": "lib/Widgets/country_all_picker/flags/jor.png"
+  },
+  {
+    "country_code": "KZ",
+    "name": "Kazakhstan",
+    "calling_code": "+76",
+    "iso3Code": "KAZ",
+    "currency_code": "KZT",
+    "currency_name": "Kazakhstani tenge",
+    "flag": "lib/Widgets/country_all_picker/flags/kaz.png"
+  },
+  {
+    "country_code": "KE",
+    "name": "Kenya",
+    "calling_code": "+254",
+    "iso3Code": "KEN",
+    "currency_code": "KES",
+    "currency_name": "Kenyan shilling",
+    "flag": "lib/Widgets/country_all_picker/flags/ken.png"
+  },
+  {
+    "country_code": "KI",
+    "name": "Kiribati",
+    "calling_code": "+686",
+    "iso3Code": "KIR",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/kir.png"
+  },
+  {
+    "country_code": "KW",
+    "name": "Kuwait",
+    "calling_code": "+965",
+    "iso3Code": "KWT",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti dinar",
+    "flag": "lib/Widgets/country_all_picker/flags/kwt.png"
+  },
+  {
+    "country_code": "KG",
+    "name": "Kyrgyzstan",
+    "calling_code": "+996",
+    "iso3Code": "KGZ",
+    "currency_code": "KGS",
+    "currency_name": "Kyrgyzstani som",
+    "flag": "lib/Widgets/country_all_picker/flags/kgz.png"
+  },
+  {
+    "country_code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "calling_code": "+856",
+    "iso3Code": "LAO",
+    "currency_code": "LAK",
+    "currency_name": "Lao kip",
+    "flag": "lib/Widgets/country_all_picker/flags/lao.png"
+  },
+  {
+    "country_code": "LV",
+    "name": "Latvia",
+    "calling_code": "+371",
+    "iso3Code": "LVA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/lva.png"
+  },
+  {
+    "country_code": "LB",
+    "name": "Lebanon",
+    "calling_code": "+961",
+    "iso3Code": "LBN",
+    "currency_code": "LBP",
+    "currency_name": "Lebanese pound",
+    "flag": "lib/Widgets/country_all_picker/flags/lbn.png"
+  },
+  {
+    "country_code": "LS",
+    "name": "Lesotho",
+    "calling_code": "+266",
+    "iso3Code": "LSO",
+    "currency_code": "LSL",
+    "currency_name": "Lesotho loti",
+    "flag": "lib/Widgets/country_all_picker/flags/lso.png"
+  },
+  {
+    "country_code": "LR",
+    "name": "Liberia",
+    "calling_code": "+231",
+    "iso3Code": "LBR",
+    "currency_code": "LRD",
+    "currency_name": "Liberian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/lbr.png"
+  },
+  {
+    "country_code": "LY",
+    "name": "Libya",
+    "calling_code": "+218",
+    "iso3Code": "LBY",
+    "currency_code": "LYD",
+    "currency_name": "Libyan dinar",
+    "flag": "lib/Widgets/country_all_picker/flags/lby.png"
+  },
+  {
+    "country_code": "LI",
+    "name": "Liechtenstein",
+    "calling_code": "+423",
+    "iso3Code": "LIE",
+    "currency_code": "CHF",
+    "currency_name": "Swiss franc",
+    "flag": "lib/Widgets/country_all_picker/flags/lie.png"
+  },
+  {
+    "country_code": "LT",
+    "name": "Lithuania",
+    "calling_code": "+370",
+    "iso3Code": "LTU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/ltu.png"
+  },
+  {
+    "country_code": "LU",
+    "name": "Luxembourg",
+    "calling_code": "+352",
+    "iso3Code": "LUX",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/lux.png"
+  },
+  {
+    "country_code": "MO",
+    "name": "Macao",
+    "calling_code": "+853",
+    "iso3Code": "MAC",
+    "currency_code": "MOP",
+    "currency_name": "Macanese pataca",
+    "flag": "lib/Widgets/country_all_picker/flags/mac.png"
+  },
+  {
+    "country_code": "MK",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "calling_code": "+389",
+    "iso3Code": "MKD",
+    "currency_code": "MKD",
+    "currency_name": "Macedonian denar",
+    "flag": "lib/Widgets/country_all_picker/flags/mkd.png"
+  },
+  {
+    "country_code": "MG",
+    "name": "Madagascar",
+    "calling_code": "+261",
+    "iso3Code": "MDG",
+    "currency_code": "MGA",
+    "currency_name": "Malagasy ariary",
+    "flag": "lib/Widgets/country_all_picker/flags/mdg.png"
+  },
+  {
+    "country_code": "MW",
+    "name": "Malawi",
+    "calling_code": "+265",
+    "iso3Code": "MWI",
+    "currency_code": "MWK",
+    "currency_name": "Malawian kwacha",
+    "flag": "lib/Widgets/country_all_picker/flags/mwi.png"
+  },
+  {
+    "country_code": "MY",
+    "name": "Malaysia",
+    "calling_code": "+60",
+    "iso3Code": "MYS",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "flag": "lib/Widgets/country_all_picker/flags/mys.png"
+  },
+  {
+    "country_code": "MV",
+    "name": "Maldives",
+    "calling_code": "+960",
+    "iso3Code": "MDV",
+    "currency_code": "MVR",
+    "currency_name": "Maldivian rufiyaa",
+    "flag": "lib/Widgets/country_all_picker/flags/mdv.png"
+  },
+  {
+    "country_code": "ML",
+    "name": "Mali",
+    "calling_code": "+223",
+    "iso3Code": "MLI",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/mli.png"
+  },
+  {
+    "country_code": "MT",
+    "name": "Malta",
+    "calling_code": "+356",
+    "iso3Code": "MLT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/mlt.png"
+  },
+  {
+    "country_code": "MH",
+    "name": "Marshall Islands",
+    "calling_code": "+692",
+    "iso3Code": "MHL",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/mhl.png"
+  },
+  {
+    "country_code": "MQ",
+    "name": "Martinique",
+    "calling_code": "+596",
+    "iso3Code": "MTQ",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/mtq.png"
+  },
+  {
+    "country_code": "MR",
+    "name": "Mauritania",
+    "calling_code": "+222",
+    "iso3Code": "MRT",
+    "currency_code": "MRO",
+    "currency_name": "Mauritanian ouguiya",
+    "flag": "lib/Widgets/country_all_picker/flags/mrt.png"
+  },
+  {
+    "country_code": "MU",
+    "name": "Mauritius",
+    "calling_code": "+230",
+    "iso3Code": "MUS",
+    "currency_code": "MUR",
+    "currency_name": "Mauritian rupee",
+    "flag": "lib/Widgets/country_all_picker/flags/mus.png"
+  },
+  {
+    "country_code": "YT",
+    "name": "Mayotte",
+    "calling_code": "+262",
+    "iso3Code": "MYT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/myt.png"
+  },
+  {
+    "country_code": "MX",
+    "name": "Mexico",
+    "calling_code": "+52",
+    "iso3Code": "MEX",
+    "currency_code": "MXN",
+    "currency_name": "Mexican peso",
+    "flag": "lib/Widgets/country_all_picker/flags/mex.png"
+  },
+  {
+    "country_code": "FM",
+    "name": "Micronesia (Federated States of)",
+    "calling_code": "+691",
+    "iso3Code": "FSM",
+    "currency_code": "None",
+    "currency_name": "[D]",
+    "flag": "lib/Widgets/country_all_picker/flags/fsm.png"
+  },
+  {
+    "country_code": "MD",
+    "name": "Moldova (Republic of)",
+    "calling_code": "+373",
+    "iso3Code": "MDA",
+    "currency_code": "MDL",
+    "currency_name": "Moldovan leu",
+    "flag": "lib/Widgets/country_all_picker/flags/mda.png"
+  },
+  {
+    "country_code": "MC",
+    "name": "Monaco",
+    "calling_code": "+377",
+    "iso3Code": "MCO",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/mco.png"
+  },
+  {
+    "country_code": "MN",
+    "name": "Mongolia",
+    "calling_code": "+976",
+    "iso3Code": "MNG",
+    "currency_code": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "flag": "lib/Widgets/country_all_picker/flags/mng.png"
+  },
+  {
+    "country_code": "ME",
+    "name": "Montenegro",
+    "calling_code": "+382",
+    "iso3Code": "MNE",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/mne.png"
+  },
+  {
+    "country_code": "MS",
+    "name": "Montserrat",
+    "calling_code": "+1664",
+    "iso3Code": "MSR",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/msr.png"
+  },
+  {
+    "country_code": "MA",
+    "name": "Morocco",
+    "calling_code": "+212",
+    "iso3Code": "MAR",
+    "currency_code": "MAD",
+    "currency_name": "Moroccan dirham",
+    "flag": "lib/Widgets/country_all_picker/flags/mar.png"
+  },
+  {
+    "country_code": "MZ",
+    "name": "Mozambique",
+    "calling_code": "+258",
+    "iso3Code": "MOZ",
+    "currency_code": "MZN",
+    "currency_name": "Mozambican metical",
+    "flag": "lib/Widgets/country_all_picker/flags/moz.png"
+  },
+  {
+    "country_code": "MM",
+    "name": "Myanmar",
+    "calling_code": "+95",
+    "iso3Code": "MMR",
+    "currency_code": "MMK",
+    "currency_name": "Burmese kyat",
+    "flag": "lib/Widgets/country_all_picker/flags/mmr.png"
+  },
+  {
+    "country_code": "NA",
+    "name": "Namibia",
+    "calling_code": "+264",
+    "iso3Code": "NAM",
+    "currency_code": "NAD",
+    "currency_name": "Namibian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/nam.png"
+  },
+  {
+    "country_code": "NR",
+    "name": "Nauru",
+    "calling_code": "+674",
+    "iso3Code": "NRU",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/nru.png"
+  },
+  {
+    "country_code": "NP",
+    "name": "Nepal",
+    "calling_code": "+977",
+    "iso3Code": "NPL",
+    "currency_code": "NPR",
+    "currency_name": "Nepalese rupee",
+    "flag": "lib/Widgets/country_all_picker/flags/npl.png"
+  },
+  {
+    "country_code": "NL",
+    "name": "Netherlands",
+    "calling_code": "+31",
+    "iso3Code": "NLD",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/nld.png"
+  },
+  {
+    "country_code": "NC",
+    "name": "New Caledonia",
+    "calling_code": "+687",
+    "iso3Code": "NCL",
+    "currency_code": "XPF",
+    "currency_name": "CFP franc",
+    "flag": "lib/Widgets/country_all_picker/flags/ncl.png"
+  },
+  {
+    "country_code": "NZ",
+    "name": "New Zealand",
+    "calling_code": "+64",
+    "iso3Code": "NZL",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/nzl.png"
+  },
+  {
+    "country_code": "NI",
+    "name": "Nicaragua",
+    "calling_code": "+505",
+    "iso3Code": "NIC",
+    "currency_code": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "flag": "lib/Widgets/country_all_picker/flags/nic.png"
+  },
+  {
+    "country_code": "NE",
+    "name": "Niger",
+    "calling_code": "+227",
+    "iso3Code": "NER",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/ner.png"
+  },
+  {
+    "country_code": "NG",
+    "name": "Nigeria",
+    "calling_code": "+234",
+    "iso3Code": "NGA",
+    "currency_code": "NGN",
+    "currency_name": "Nigerian naira",
+    "flag": "lib/Widgets/country_all_picker/flags/nga.png"
+  },
+  {
+    "country_code": "NU",
+    "name": "Niue",
+    "calling_code": "+683",
+    "iso3Code": "NIU",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/niu.png"
+  },
+  {
+    "country_code": "NF",
+    "name": "Norfolk Island",
+    "calling_code": "+672",
+    "iso3Code": "NFK",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/nfk.png"
+  },
+  {
+    "country_code": "KP",
+    "name": "Korea (Democratic People's Republic of)",
+    "calling_code": "+850",
+    "iso3Code": "PRK",
+    "currency_code": "KPW",
+    "currency_name": "North Korean won",
+    "flag": "lib/Widgets/country_all_picker/flags/prk.png"
+  },
+  {
+    "country_code": "MP",
+    "name": "Northern Mariana Islands",
+    "calling_code": "+1670",
+    "iso3Code": "MNP",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/mnp.png"
+  },
+  {
+    "country_code": "NO",
+    "name": "Norway",
+    "calling_code": "+47",
+    "iso3Code": "NOR",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian krone",
+    "flag": "lib/Widgets/country_all_picker/flags/nor.png"
+  },
+  {
+    "country_code": "OM",
+    "name": "Oman",
+    "calling_code": "+968",
+    "iso3Code": "OMN",
+    "currency_code": "OMR",
+    "currency_name": "Omani rial",
+    "flag": "lib/Widgets/country_all_picker/flags/omn.png"
+  },
+  {
+    "country_code": "PK",
+    "name": "Pakistan",
+    "calling_code": "+92",
+    "iso3Code": "PAK",
+    "currency_code": "PKR",
+    "currency_name": "Pakistani rupee",
+    "flag": "lib/Widgets/country_all_picker/flags/pak.png"
+  },
+  {
+    "country_code": "PW",
+    "name": "Palau",
+    "calling_code": "+680",
+    "iso3Code": "PLW",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/plw.png"
+  },
+  {
+    "country_code": "PS",
+    "name": "Palestine",
+    "calling_code": "+970",
+    "iso3Code": "PSE",
+    "currency_code": "ILS",
+    "currency_name": "Israeli new sheqel",
+    "flag": "lib/Widgets/country_all_picker/flags/pse.png"
+  },
+  {
+    "country_code": "PA",
+    "name": "Panama",
+    "calling_code": "+507",
+    "iso3Code": "PAN",
+    "currency_code": "PAB",
+    "currency_name": "Panamanian balboa",
+    "flag": "lib/Widgets/country_all_picker/flags/pan.png"
+  },
+  {
+    "country_code": "PG",
+    "name": "Papua New Guinea",
+    "calling_code": "+675",
+    "iso3Code": "PNG",
+    "currency_code": "PGK",
+    "currency_name": "Papua New Guinean kina",
+    "flag": "lib/Widgets/country_all_picker/flags/png.png"
+  },
+  {
+    "country_code": "PY",
+    "name": "Paraguay",
+    "calling_code": "+595",
+    "iso3Code": "PRY",
+    "currency_code": "PYG",
+    "currency_name": "Paraguayan guaraní",
+    "flag": "lib/Widgets/country_all_picker/flags/pry.png"
+  },
+  {
+    "country_code": "PE",
+    "name": "Peru",
+    "calling_code": "+51",
+    "iso3Code": "PER",
+    "currency_code": "PEN",
+    "currency_name": "Peruvian sol",
+    "flag": "lib/Widgets/country_all_picker/flags/per.png"
+  },
+  {
+    "country_code": "PH",
+    "name": "Philippines",
+    "calling_code": "+63",
+    "iso3Code": "PHL",
+    "currency_code": "PHP",
+    "currency_name": "Philippine peso",
+    "flag": "lib/Widgets/country_all_picker/flags/phl.png"
+  },
+  {
+    "country_code": "PN",
+    "name": "Pitcairn",
+    "calling_code": "+64",
+    "iso3Code": "PCN",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/pcn.png"
+  },
+  {
+    "country_code": "PL",
+    "name": "Poland",
+    "calling_code": "+48",
+    "iso3Code": "POL",
+    "currency_code": "PLN",
+    "currency_name": "Polish złoty",
+    "flag": "lib/Widgets/country_all_picker/flags/pol.png"
+  },
+  {
+    "country_code": "PT",
+    "name": "Portugal",
+    "calling_code": "+351",
+    "iso3Code": "PRT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/prt.png"
+  },
+  {
+    "country_code": "PR",
+    "name": "Puerto Rico",
+    "calling_code": "+1787",
+    "iso3Code": "PRI",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/pri.png"
+  },
+  {
+    "country_code": "QA",
+    "name": "Qatar",
+    "calling_code": "+974",
+    "iso3Code": "QAT",
+    "currency_code": "QAR",
+    "currency_name": "Qatari riyal",
+    "flag": "lib/Widgets/country_all_picker/flags/qat.png"
+  },
+  {
+    "country_code": "XK",
+    "name": "Kosovo",
+    "calling_code": "+383",
+    "iso3Code": "KOS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/kos.png"
+  },
+  {
+    "country_code": "RE",
+    "name": "Réunion",
+    "calling_code": "+262",
+    "iso3Code": "REU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/reu.png"
+  },
+  {
+    "country_code": "RO",
+    "name": "Romania",
+    "calling_code": "+40",
+    "iso3Code": "ROU",
+    "currency_code": "RON",
+    "currency_name": "Romanian leu",
+    "flag": "lib/Widgets/country_all_picker/flags/rou.png"
+  },
+  {
+    "country_code": "RU",
+    "name": "Russian Federation",
+    "calling_code": "+7",
+    "iso3Code": "RUS",
+    "currency_code": "RUB",
+    "currency_name": "Russian ruble",
+    "flag": "lib/Widgets/country_all_picker/flags/rus.png"
+  },
+  {
+    "country_code": "RW",
+    "name": "Rwanda",
+    "calling_code": "+250",
+    "iso3Code": "RWA",
+    "currency_code": "RWF",
+    "currency_name": "Rwandan franc",
+    "flag": "lib/Widgets/country_all_picker/flags/rwa.png"
+  },
+  {
+    "country_code": "BL",
+    "name": "Saint Barthélemy",
+    "calling_code": "+590",
+    "iso3Code": "BLM",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/blm.png"
+  },
+  {
+    "country_code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "calling_code": "+290",
+    "iso3Code": "SHN",
+    "currency_code": "SHP",
+    "currency_name": "Saint Helena pound",
+    "flag": "lib/Widgets/country_all_picker/flags/shn.png"
+  },
+  {
+    "country_code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "calling_code": "+1869",
+    "iso3Code": "KNA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/kna.png"
+  },
+  {
+    "country_code": "LC",
+    "name": "Saint Lucia",
+    "calling_code": "+1758",
+    "iso3Code": "LCA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/lca.png"
+  },
+  {
+    "country_code": "MF",
+    "name": "Saint Martin (French part)",
+    "calling_code": "+590",
+    "iso3Code": "MAF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/maf.png"
+  },
+  {
+    "country_code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "calling_code": "+508",
+    "iso3Code": "SPM",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/spm.png"
+  },
+  {
+    "country_code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "calling_code": "+1784",
+    "iso3Code": "VCT",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/vct.png"
+  },
+  {
+    "country_code": "WS",
+    "name": "Samoa",
+    "calling_code": "+685",
+    "iso3Code": "WSM",
+    "currency_code": "WST",
+    "currency_name": "Samoan tālā",
+    "flag": "lib/Widgets/country_all_picker/flags/wsm.png"
+  },
+  {
+    "country_code": "SM",
+    "name": "San Marino",
+    "calling_code": "+378",
+    "iso3Code": "SMR",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/smr.png"
+  },
+  {
+    "country_code": "ST",
+    "name": "Sao Tome and Principe",
+    "calling_code": "+239",
+    "iso3Code": "STP",
+    "currency_code": "STD",
+    "currency_name": "São Tomé and Príncipe dobra",
+    "flag": "lib/Widgets/country_all_picker/flags/stp.png"
+  },
+  {
+    "country_code": "SA",
+    "name": "Saudi Arabia",
+    "calling_code": "+966",
+    "iso3Code": "SAU",
+    "currency_code": "SAR",
+    "currency_name": "Saudi riyal",
+    "flag": "lib/Widgets/country_all_picker/flags/sau.png"
+  },
+  {
+    "country_code": "SN",
+    "name": "Senegal",
+    "calling_code": "+221",
+    "iso3Code": "SEN",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/sen.png"
+  },
+  {
+    "country_code": "RS",
+    "name": "Serbia",
+    "calling_code": "+381",
+    "iso3Code": "SRB",
+    "currency_code": "RSD",
+    "currency_name": "Serbian dinar",
+    "flag": "lib/Widgets/country_all_picker/flags/srb.png"
+  },
+  {
+    "country_code": "SC",
+    "name": "Seychelles",
+    "calling_code": "+248",
+    "iso3Code": "SYC",
+    "currency_code": "SCR",
+    "currency_name": "Seychellois rupee",
+    "flag": "lib/Widgets/country_all_picker/flags/syc.png"
+  },
+  {
+    "country_code": "SL",
+    "name": "Sierra Leone",
+    "calling_code": "+232",
+    "iso3Code": "SLE",
+    "currency_code": "SLL",
+    "currency_name": "Sierra Leonean leone",
+    "flag": "lib/Widgets/country_all_picker/flags/sle.png"
+  },
+  {
+    "country_code": "SG",
+    "name": "Singapore",
+    "calling_code": "+65",
+    "iso3Code": "SGP",
+    "currency_code": "SGD",
+    "currency_name": "Singapore dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/sgp.png"
+  },
+  {
+    "country_code": "SX",
+    "name": "Sint Maarten (Dutch part)",
+    "calling_code": "+1721",
+    "iso3Code": "SXM",
+    "currency_code": "ANG",
+    "currency_name": "Netherlands Antillean guilder",
+    "flag": "lib/Widgets/country_all_picker/flags/sxm.png"
+  },
+  {
+    "country_code": "SK",
+    "name": "Slovakia",
+    "calling_code": "+421",
+    "iso3Code": "SVK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/svk.png"
+  },
+  {
+    "country_code": "SI",
+    "name": "Slovenia",
+    "calling_code": "+386",
+    "iso3Code": "SVN",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/svn.png"
+  },
+  {
+    "country_code": "SB",
+    "name": "Solomon Islands",
+    "calling_code": "+677",
+    "iso3Code": "SLB",
+    "currency_code": "SBD",
+    "currency_name": "Solomon Islands dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/slb.png"
+  },
+  {
+    "country_code": "SO",
+    "name": "Somalia",
+    "calling_code": "+252",
+    "iso3Code": "SOM",
+    "currency_code": "SOS",
+    "currency_name": "Somali shilling",
+    "flag": "lib/Widgets/country_all_picker/flags/som.png"
+  },
+  {
+    "country_code": "ZA",
+    "name": "South Africa",
+    "calling_code": "+27",
+    "iso3Code": "ZAF",
+    "currency_code": "ZAR",
+    "currency_name": "South African rand",
+    "flag": "lib/Widgets/country_all_picker/flags/zaf.png"
+  },
+  {
+    "country_code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "calling_code": "+500",
+    "iso3Code": "SGS",
+    "currency_code": "GBP",
+    "currency_name": "British pound",
+    "flag": "lib/Widgets/country_all_picker/flags/sgs.png"
+  },
+  {
+    "country_code": "KR",
+    "name": "Korea (Republic of)",
+    "calling_code": "+82",
+    "iso3Code": "KOR",
+    "currency_code": "KRW",
+    "currency_name": "South Korean won",
+    "flag": "lib/Widgets/country_all_picker/flags/kor.png"
+  },
+  {
+    "country_code": "SS",
+    "name": "South Sudan",
+    "calling_code": "+211",
+    "iso3Code": "SSD",
+    "currency_code": "SSP",
+    "currency_name": "South Sudanese pound",
+    "flag": "lib/Widgets/country_all_picker/flags/ssd.png"
+  },
+  {
+    "country_code": "ES",
+    "name": "Spain",
+    "calling_code": "+34",
+    "iso3Code": "ESP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "flag": "lib/Widgets/country_all_picker/flags/esp.png"
+  },
+  {
+    "country_code": "LK",
+    "name": "Sri Lanka",
+    "calling_code": "+94",
+    "iso3Code": "LKA",
+    "currency_code": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "flag": "lib/Widgets/country_all_picker/flags/lka.png"
+  },
+  {
+    "country_code": "SD",
+    "name": "Sudan",
+    "calling_code": "+249",
+    "iso3Code": "SDN",
+    "currency_code": "SDG",
+    "currency_name": "Sudanese pound",
+    "flag": "lib/Widgets/country_all_picker/flags/sdn.png"
+  },
+  {
+    "country_code": "SR",
+    "name": "Suriname",
+    "calling_code": "+597",
+    "iso3Code": "SUR",
+    "currency_code": "SRD",
+    "currency_name": "Surinamese dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/sur.png"
+  },
+  {
+    "country_code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "calling_code": "+4779",
+    "iso3Code": "SJM",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian krone",
+    "flag": "lib/Widgets/country_all_picker/flags/sjm.png"
+  },
+  {
+    "country_code": "SZ",
+    "name": "Swaziland",
+    "calling_code": "+268",
+    "iso3Code": "SWZ",
+    "currency_code": "SZL",
+    "currency_name": "Swazi lilangeni",
+    "flag": "lib/Widgets/country_all_picker/flags/swz.png"
+  },
+  {
+    "country_code": "SE",
+    "name": "Sweden",
+    "calling_code": "+46",
+    "iso3Code": "SWE",
+    "currency_code": "SEK",
+    "currency_name": "Swedish krona",
+    "flag": "lib/Widgets/country_all_picker/flags/swe.png"
+  },
+  {
+    "country_code": "CH",
+    "name": "Switzerland",
+    "calling_code": "+41",
+    "iso3Code": "CHE",
+    "currency_code": "CHF",
+    "currency_name": "Swiss franc",
+    "flag": "lib/Widgets/country_all_picker/flags/che.png"
+  },
+  {
+    "country_code": "SY",
+    "name": "Syrian Arab Republic",
+    "calling_code": "+963",
+    "iso3Code": "SYR",
+    "currency_code": "SYP",
+    "currency_name": "Syrian pound",
+    "flag": "lib/Widgets/country_all_picker/flags/syr.png"
+  },
+  {
+    "country_code": "TW",
+    "name": "Taiwan",
+    "calling_code": "+886",
+    "iso3Code": "TWN",
+    "currency_code": "TWD",
+    "currency_name": "New Taiwan dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/twn.png"
+  },
+  {
+    "country_code": "TJ",
+    "name": "Tajikistan",
+    "calling_code": "+992",
+    "iso3Code": "TJK",
+    "currency_code": "TJS",
+    "currency_name": "Tajikistani somoni",
+    "flag": "lib/Widgets/country_all_picker/flags/tjk.png"
+  },
+  {
+    "country_code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "calling_code": "+255",
+    "iso3Code": "TZA",
+    "currency_code": "TZS",
+    "currency_name": "Tanzanian shilling",
+    "flag": "lib/Widgets/country_all_picker/flags/tza.png"
+  },
+  {
+    "country_code": "TH",
+    "name": "Thailand",
+    "calling_code": "+66",
+    "iso3Code": "THA",
+    "currency_code": "THB",
+    "currency_name": "Thai baht",
+    "flag": "lib/Widgets/country_all_picker/flags/tha.png"
+  },
+  {
+    "country_code": "TL",
+    "name": "Timor-Leste",
+    "calling_code": "+670",
+    "iso3Code": "TLS",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/tls.png"
+  },
+  {
+    "country_code": "TG",
+    "name": "Togo",
+    "calling_code": "+228",
+    "iso3Code": "TGO",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "flag": "lib/Widgets/country_all_picker/flags/tgo.png"
+  },
+  {
+    "country_code": "TK",
+    "name": "Tokelau",
+    "calling_code": "+690",
+    "iso3Code": "TKL",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/tkl.png"
+  },
+  {
+    "country_code": "TO",
+    "name": "Tonga",
+    "calling_code": "+676",
+    "iso3Code": "TON",
+    "currency_code": "TOP",
+    "currency_name": "Tongan paʻanga",
+    "flag": "lib/Widgets/country_all_picker/flags/ton.png"
+  },
+  {
+    "country_code": "TT",
+    "name": "Trinidad and Tobago",
+    "calling_code": "+1868",
+    "iso3Code": "TTO",
+    "currency_code": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/tto.png"
+  },
+  {
+    "country_code": "TN",
+    "name": "Tunisia",
+    "calling_code": "+216",
+    "iso3Code": "TUN",
+    "currency_code": "TND",
+    "currency_name": "Tunisian dinar",
+    "flag": "lib/Widgets/country_all_picker/flags/tun.png"
+  },
+  {
+    "country_code": "TR",
+    "name": "Turkey",
+    "calling_code": "+90",
+    "iso3Code": "TUR",
+    "currency_code": "TRY",
+    "currency_name": "Turkish lira",
+    "flag": "lib/Widgets/country_all_picker/flags/tur.png"
+  },
+  {
+    "country_code": "TM",
+    "name": "Turkmenistan",
+    "calling_code": "+993",
+    "iso3Code": "TKM",
+    "currency_code": "TMT",
+    "currency_name": "Turkmenistan manat",
+    "flag": "lib/Widgets/country_all_picker/flags/tkm.png"
+  },
+  {
+    "country_code": "TC",
+    "name": "Turks and Caicos Islands",
+    "calling_code": "+1649",
+    "iso3Code": "TCA",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/tca.png"
+  },
+  {
+    "country_code": "TV",
+    "name": "Tuvalu",
+    "calling_code": "+688",
+    "iso3Code": "TUV",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/tuv.png"
+  },
+  {
+    "country_code": "UG",
+    "name": "Uganda",
+    "calling_code": "+256",
+    "iso3Code": "UGA",
+    "currency_code": "UGX",
+    "currency_name": "Ugandan shilling",
+    "flag": "lib/Widgets/country_all_picker/flags/uga.png"
+  },
+  {
+    "country_code": "UA",
+    "name": "Ukraine",
+    "calling_code": "+380",
+    "iso3Code": "UKR",
+    "currency_code": "UAH",
+    "currency_name": "Ukrainian hryvnia",
+    "flag": "lib/Widgets/country_all_picker/flags/ukr.png"
+  },
+  {
+    "country_code": "AE",
+    "name": "United Arab Emirates",
+    "calling_code": "+971",
+    "iso3Code": "ARE",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates dirham",
+    "flag": "lib/Widgets/country_all_picker/flags/are.png"
+  },
+  {
+    "country_code": "GB",
+    "name": "United Kingdom",
+    "calling_code": "+44",
+    "iso3Code": "GBR",
+    "currency_code": "GBP",
+    "currency_name": "British pound",
+    "flag": "lib/Widgets/country_all_picker/flags/gbr.png"
+  },
+  {
+    "country_code": "US",
+    "name": "United States of America",
+    "calling_code": "+1",
+    "iso3Code": "USA",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "flag": "lib/Widgets/country_all_picker/flags/usa.png"
+  },
+  {
+    "country_code": "UY",
+    "name": "Uruguay",
+    "calling_code": "+598",
+    "iso3Code": "URY",
+    "currency_code": "UYU",
+    "currency_name": "Uruguayan peso",
+    "flag": "lib/Widgets/country_all_picker/flags/ury.png"
+  },
+  {
+    "country_code": "UZ",
+    "name": "Uzbekistan",
+    "calling_code": "+998",
+    "iso3Code": "UZB",
+    "currency_code": "UZS",
+    "currency_name": "Uzbekistani so'm",
+    "flag": "lib/Widgets/country_all_picker/flags/uzb.png"
+  },
+  {
+    "country_code": "VU",
+    "name": "Vanuatu",
+    "calling_code": "+678",
+    "iso3Code": "VUT",
+    "currency_code": "VUV",
+    "currency_name": "Vanuatu vatu",
+    "flag": "lib/Widgets/country_all_picker/flags/vut.png"
+  },
+  {
+    "country_code": "VE",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "calling_code": "+58",
+    "iso3Code": "VEN",
+    "currency_code": "VEF",
+    "currency_name": "Venezuelan bolívar",
+    "flag": "lib/Widgets/country_all_picker/flags/ven.png"
+  },
+  {
+    "country_code": "VN",
+    "name": "Vietnam",
+    "calling_code": "+84",
+    "iso3Code": "VNM",
+    "currency_code": "VND",
+    "currency_name": "Vietnamese đồng",
+    "flag": "lib/Widgets/country_all_picker/flags/vnm.png"
+  },
+  {
+    "country_code": "WF",
+    "name": "Wallis and Futuna Islands",
+    "calling_code": "+681",
+    "iso3Code": "WLF",
+    "currency_code": "XPF",
+    "currency_name": "CFP franc",
+    "flag": "lib/Widgets/country_all_picker/flags/wlf.png"
+  },
+  {
+    "country_code": "EH",
+    "name": "Western Sahara",
+    "calling_code": "+212",
+    "iso3Code": "ESH",
+    "currency_code": "MAD",
+    "currency_name": "Moroccan dirham",
+    "flag": "lib/Widgets/country_all_picker/flags/esh.png"
+  },
+  {
+    "country_code": "YE",
+    "name": "Yemen",
+    "calling_code": "+967",
+    "iso3Code": "YEM",
+    "currency_code": "YER",
+    "currency_name": "Yemeni rial",
+    "flag": "lib/Widgets/country_all_picker/flags/yem.png"
+  },
+  {
+    "country_code": "ZM",
+    "name": "Zambia",
+    "calling_code": "+260",
+    "iso3Code": "ZMB",
+    "currency_code": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "flag": "lib/Widgets/country_all_picker/flags/zmb.png"
+  },
+  {
+    "country_code": "ZW",
+    "name": "Zimbabwe",
+    "calling_code": "+263",
+    "iso3Code": "ZWE",
+    "currency_code": "BWP",
+    "currency_name": "Botswana pula",
+    "flag": "lib/Widgets/country_all_picker/flags/zwe.png"
+  }
+]
